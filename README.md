@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+# EX-03 Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
@@ -109,19 +109,23 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![1](https://github.com/BALA291/mnist-classification/assets/120717501/b37870a7-b2c0-4290-b6d8-42644ac10fea)
+![2](https://github.com/BALA291/mnist-classification/assets/120717501/35454415-6688-471a-bcfb-a38c983c875e)
+
 
 ### Classification Report
 
-Include Classification Report here
+![classification](https://github.com/BALA291/mnist-classification/assets/120717501/19c3b220-f010-47cd-8380-33625931bcbd)
+
 
 ### Confusion Matrix
+![confusion](https://github.com/BALA291/mnist-classification/assets/120717501/1814ad10-05a2-4408-8535-b776c08db630)
 
-Include confusion matrix here
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![predict](https://github.com/BALA291/mnist-classification/assets/120717501/746c52e9-1279-4fc0-adc0-c2153de8ce63)
+
 
 ## RESULT
-Include your result here.
+A Convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
